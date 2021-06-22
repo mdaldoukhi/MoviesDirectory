@@ -1,6 +1,7 @@
 const movies = [
     {
         title: "Citizen Kane",
+        slug: "citizen-kane",
         released: " 5 September 1941",
         runtime: "1h 59min",
         genre: "Drama, Mystery",
@@ -11,6 +12,7 @@ const movies = [
     },
     {
         title: "Full Metal Jacket",
+        slug: "full-metal-jacket",
         released: "10 July 1987",
         runtime: "1h 56min",
         genre: "Drama, War",
@@ -21,6 +23,7 @@ const movies = [
     },
     {
         title: "Taxi Driver",
+        slug: "taxi-driver",
         released: "9 February 1976",
         runtime: "1h 54min",
         genre: "Crime, Drama",
@@ -31,6 +34,7 @@ const movies = [
     },
     {
         title: "Scarface",
+        slug: "scarface",
         released: "9 December 1983",
         runtime: "2h 50min",
         genre: "Crime, Drama",
@@ -41,6 +45,7 @@ const movies = [
     },
     {
         title: "Lawrence of Arabia",
+        slug: "lawrence-of-arabia",
         released: "11 December 1962",
         runtime: "3h 48min",
         genre: "Adventure, Biography, Drama",
@@ -51,6 +56,7 @@ const movies = [
     },
     {
         title: "The Sting",
+        slug: "the-sting",
         released: "25 December 1973",
         runtime: "2h 9min",
         genre: "Comedy, Crime, Drama",
@@ -60,6 +66,7 @@ const movies = [
     },
     {
         title: "A Separation",
+        slug: "a-separation",
         released: "28 June 2012",
         runtime: "2h 3min",
         genre: "Drama",
